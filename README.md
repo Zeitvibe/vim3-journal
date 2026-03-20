@@ -20,4 +20,4 @@ I'm documenting my journey learning edge computing and NPU programming on the KH
 ## 🚀 One-Liner Install
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/ZeitVibe/vim3-journal/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/Zeitvibe/vim3-journal/main/install.sh | bash
